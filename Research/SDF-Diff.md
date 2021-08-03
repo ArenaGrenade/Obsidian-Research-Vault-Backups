@@ -17,3 +17,5 @@
 It is....
 
 ## How their method works?
+- Usage of discrete SDF. Trilinear interp for building continuous SDF. The object surface would be the zero level set of this.
+- 
