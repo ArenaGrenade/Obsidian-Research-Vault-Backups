@@ -218,7 +218,7 @@
             "id": "cf0dae9f882b6ba3",
             "type": "leaf",
             "state": {
-              "type": "juggl_nodes",
+              "type": "empty",
               "state": {}
             }
           },
@@ -226,7 +226,7 @@
             "id": "4c8f3ffa3ee17ee8",
             "type": "leaf",
             "state": {
-              "type": "juggl_style",
+              "type": "empty",
               "state": {}
             }
           }
