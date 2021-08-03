@@ -7,10 +7,9 @@
         "id": "e14e0c91c1bd5e75",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "SDF-Diff.md",
-            "mode": "source"
+            "file": "ImageEditing2dto3d/DIST.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDF-Diff.md",
+                "file": "ImageEditing2dto3d/DIST.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDF-Diff.md",
+                "file": "ImageEditing2dto3d/DIST.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,6 +228,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "eb55592ffbaa9c75",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb5bcd4a1bd6ba06",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ]
       }
@@ -239,6 +254,7 @@
   },
   "active": "e14e0c91c1bd5e75",
   "lastOpenFiles": [
+    "ImageEditing2dto3d/DIST.pdf",
     "SDF-Diff.md",
     "Untitled.md",
     "Testing?.md"
