@@ -3,4 +3,5 @@
 - Mulit-view reconstruction using shape optimization. Involves use of Multi-resolution with gradient descent optimiation.
 - Single-vew 3d reconstruction without 3d supervision.
 
-## BRUH
+## Other Literature
+- [[DeepSDF]] paper talks about implicit representation.
