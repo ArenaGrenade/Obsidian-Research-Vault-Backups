@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "b6d38655e53028f6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SDF-Diff.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -190,6 +179,22 @@
             "type": "leaf",
             "state": {
               "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "39b0a57b83dd7284",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "d060194da81e0bc3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
               "state": {}
             }
           }
