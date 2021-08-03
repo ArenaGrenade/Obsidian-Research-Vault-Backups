@@ -12,4 +12,7 @@
 - The paper handles only shape optimizations, ig this means we can primarily only do [[Shape Reconstruction]] and other parameters are known.
 - Differentiable rendering needs to provide derrivatives of image wrt the scene parameters themselves. This is used when calculating the derrivatives of the loss function for any optimization.
 
+## New things learnt
+- Zero-level Set
+
 ## How their method works?
