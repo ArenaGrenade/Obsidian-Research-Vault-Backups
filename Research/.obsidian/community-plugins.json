@@ -3,5 +3,9 @@
   "obsidian-dictionary-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-imgur-plugin",
-  "juggl"
+  "juggl",
+  "markdown-prettifier",
+  "obsidian-git",
+  "url-into-selection",
+  "cm-show-whitespace-obsidian"
 ]
