@@ -13,6 +13,7 @@
 - Differentiable rendering needs to provide derrivatives of image wrt the scene parameters themselves. This is used when calculating the derrivatives of the loss function for any optimization.
 
 ## New things learnt
-- Zero-level Set
+### Zero-level Set of a function
+It is....
 
 ## How their method works?
