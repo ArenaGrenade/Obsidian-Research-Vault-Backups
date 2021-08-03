@@ -18,4 +18,4 @@ It is....
 
 ## How their method works?
 - Usage of discrete SDF. Trilinear interp for building continuous SDF. The object surface would be the zero level set of this.
-- 
+- We essentially apply a 8-point discrete sphere tracing. So sample values at these 8 points are non-differentiable. but, pixel color is defined on the local set of SDF samples using an automatiic differentiaion framework.
