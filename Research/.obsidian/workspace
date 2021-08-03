@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d99e4913884a2aa6",
+        "id": "2e295b24a343fda0",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -248,8 +248,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d99e4913884a2aa6",
+  "active": "2e295b24a343fda0",
   "lastOpenFiles": [
+    "ImageEditing2dto3d/3dReconstructLossFunction.pdf",
     "ImageEditing2dto3d/DIST.pdf",
     "SDF-Diff.md",
     "Untitled.md",
