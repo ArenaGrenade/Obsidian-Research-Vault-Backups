@@ -6,10 +6,23 @@
       {
         "id": "30f899783419129f",
         "type": "leaf",
+        "dimension": 53.01075268817205,
         "state": {
           "type": "pdf",
           "state": {
             "file": "ImageEditing2dto3d/2019-SDFDiff.pdf"
+          }
+        }
+      },
+      {
+        "id": "a6a15e5363f1b7fc",
+        "type": "leaf",
+        "dimension": 46.98924731182796,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SDF-Diff.md",
+            "mode": "source"
           }
         }
       }
@@ -51,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376
+    "width": 376,
+    "collapsed": true
   },
   "right": {
     "id": "63bb4aa051368dcf",
@@ -67,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ImageEditing2dto3d/2019-SDFDiff.pdf",
+                "file": "SDF-Diff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ImageEditing2dto3d/2019-SDFDiff.pdf",
+                "file": "SDF-Diff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,10 +266,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30f899783419129f",
+  "active": "a6a15e5363f1b7fc",
   "lastOpenFiles": [
-    "ImageEditing2dto3d/2019-SDFDiff.pdf",
     "SDF-Diff.md",
+    "ImageEditing2dto3d/2019-SDFDiff.pdf",
     "ImageEditing2dto3d/SDFDiff-2019.pdf",
     "ImageEditing2dto3d/SDF-SRN-2020.pdf",
     "ImageEditing2dto3d/GANDifferentialRender-2021.pdf",
