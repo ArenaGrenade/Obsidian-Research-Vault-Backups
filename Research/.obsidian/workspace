@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e14e0c91c1bd5e75",
+        "id": "d99e4913884a2aa6",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "ImageEditing2dto3d/DIST.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ImageEditing2dto3d/DIST.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ImageEditing2dto3d/DIST.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +248,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e14e0c91c1bd5e75",
+  "active": "d99e4913884a2aa6",
   "lastOpenFiles": [
     "ImageEditing2dto3d/DIST.pdf",
     "SDF-Diff.md",
