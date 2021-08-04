@@ -4,47 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "30f899783419129f",
+        "id": "eee896ede1362a1b",
         "type": "leaf",
-        "dimension": 69.29023190442727,
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "SingleViewReconstructionLiterature/2019-SDFDiff.pdf"
+            "file": "Central Finite Differencing.md",
+            "mode": "source"
           }
         }
-      },
-      {
-        "id": "dcae9d3df569e15c",
-        "type": "split",
-        "dimension": 30.70976809557273,
-        "children": [
-          {
-            "id": "a6a15e5363f1b7fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDF-Diff.md",
-                "mode": "source"
-              }
-            },
-            "group": "b2395649292e8e7f"
-          },
-          {
-            "id": "9c35a3abeddc22dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDF-Diff.md",
-                "mode": "preview"
-              }
-            },
-            "group": "b2395649292e8e7f"
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -84,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376,
-    "collapsed": true
+    "width": 376
   },
   "right": {
     "id": "63bb4aa051368dcf",
@@ -101,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDF-Diff.md",
+                "file": "Central Finite Differencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDF-Diff.md",
+                "file": "Central Finite Differencing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,17 +253,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6a15e5363f1b7fc",
+  "active": "eee896ede1362a1b",
   "lastOpenFiles": [
+    "Central Finite Differencing.md",
     "SDF-Diff.md",
+    "Zero Level Set.md",
+    "DeepSDF.md",
+    "SMVS.md",
+    "Deep Level Sets.md",
+    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
+    "SingleViewReconstructionLiterature/2019-SDFDiff.pdf",
     "ImageEditing2dto3d/2019-SDFDiff.pdf",
-    "ImageEditing2dto3d/SDFDiff-2019.pdf",
-    "ImageEditing2dto3d/SDF-SRN-2020.pdf",
-    "ImageEditing2dto3d/GANDifferentialRender-2021.pdf",
-    "ImageEditing2dto3d/DIST-2020.pdf",
-    "ImageEditing2dto3d/Differentiable Volumetric Rendering-2020.pdf",
-    "ImageEditing2dto3d/2021-3dReconstructLossFunction.pdf",
-    "ImageEditing2dto3d/3dReconstructLossFunction-2021.pdf",
-    "ImageEditing2dto3d/3dReconstructLossFunction.pdf"
+    "ImageEditing2dto3d/SDFDiff-2019.pdf"
   ]
 }

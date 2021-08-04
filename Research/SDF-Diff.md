@@ -11,7 +11,7 @@
 - [[DIB-R]]
 ## Points to note
 - Rendering is not invertible so we can only optimize for close results.
-- The paper handles only shape optimizations, ig this means we can primarily only do [[Shape Reconstruction]] and other parameters are known.
+- The paper handles only shape optimizations, ig this means we can primarily only do shape reconstruction and other parameters are known.
 - Differentiable rendering needs to provide derrivatives of image wrt the scene parameters themselves. This is used when calculating the derrivatives of the loss function for any optimization.
 - Any model built on this must generate a 3d lattice / manifold of SDF values in a discrete fashion.
 ## How their method works?
@@ -39,7 +39,8 @@
 - They built the network in parts - a encoder + decoder for a course SDF construction module and another that refines this output and generates finer SDFs.
 - They use the above loss function with an additional laplacian loss which is __????????????????????????????__
 - Their training first tries to use the first network to generate the course structure separately and then they train the refiner separately.
+- Further, they also let both the networks train together at the end to get better scores.
 
 ### Their Limitations
-- They cannot work on real-life images because of the simplistic shading model they had assumed.
+- They cannot work on real-life images because of the simplistic diffuse shading model they had assumed.
 - Their representaiton of the SDF is discrete.
