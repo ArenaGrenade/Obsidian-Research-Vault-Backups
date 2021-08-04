@@ -30,4 +30,5 @@ It is....
 - The training is performed greedily. If loss of a target view is greater than the average of previous training iteration, then that sample is updated a maximum of 20 times or until loss lowers below average. For all other target views, we update the SDF lattice 5 times.
 - The updates are stopped in any iteration if the loss starts increasing.
 - The stopping criterion for the optimization is tolerance of loss and small step length.
-- The multi-resolution method is proposed to incrementally increase the lattice r
+- The multi-resolution method is proposed to incrementally increase the lattice resolution and train parallely. This seems to give them a better / faster convergence for high-frequency details.
+- Their render resolution is also dependent on the current lattice resolution.
