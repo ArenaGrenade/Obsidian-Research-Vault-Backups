@@ -6,17 +6,16 @@
 - [[DeepSDF]] paper talks about implicit representation.
 - [[Deep Level Sets]] is an end-to-end model predicting implicit surfaces.
 - [[SMVS]] aka Shading-aware multi-view synthesis can capture all the scene parameters from an image itself.
+- [[NMR]]
+- [[SoftRas]]
+- [[DIB-R]]
 ## Points to note
 - Rendering is not invertible so we can only optimize for close results.
 - The paper handles only shape optimizations, ig this means we can primarily only do [[Shape Reconstruction]] and other parameters are known.
 - Differentiable rendering needs to provide derrivatives of image wrt the scene parameters themselves. This is used when calculating the derrivatives of the loss function for any optimization.
 - Any model built on this must generate a 3d lattice / manifold of SDF values in a discrete fashion.
-## New things learnt
-### Zero-level Set of a function
-It is....
-
 ## How their method works?
-- Usage of discrete SDF. Trilinear interp for building continuous SDF. The object surface would be the zero level set of this.
+- Usage of discrete SDF. Trilinear interp for building continuous SDF. The object surface would be the [[Zero Level Set]] of this.
 - We essentially apply a 8-point discrete sphere tracing. So sample values at these 8 points are non-differentiable. but, pixel color is defined on the local set of SDF samples using an automatiic differentiaion framework.
 - This would mean that the we calculate distances and shading parameters in a non-differentiable fashion. But the actual shading happens in a differentiable way.
 - Inputs to the shading is lighting parameters, camera parameters and nearby lattice samples of SDF and provides the intersection point as well as the normals at this point.
@@ -39,4 +38,8 @@ It is....
 - 3d IoU used as reconstriction metric.
 - They built the network in parts - a encoder + decoder for a course SDF construction module and another that refines this output and generates finer SDFs.
 - They use the above loss function with an additional laplacian loss which is __????????????????????????????__
-- 
+- Their training first tries to use the first network to generate the course structure separately and then they train the refiner separately.
+
+### Their Limitations
+- They cannot work on real-life images because of the simplistic shading model they had assumed.
+- Their representaiton of the SDF is discrete.
