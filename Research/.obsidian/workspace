@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eee896ede1362a1b",
+        "id": "dc8cce3c9b244f8f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Central Finite Differencing.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Finite Differencing.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Finite Differencing.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,17 +253,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eee896ede1362a1b",
+  "active": "dc8cce3c9b244f8f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
     "Central Finite Differencing.md",
     "SDF-Diff.md",
     "Zero Level Set.md",
     "DeepSDF.md",
     "SMVS.md",
     "Deep Level Sets.md",
-    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
     "SingleViewReconstructionLiterature/2019-SDFDiff.pdf",
-    "ImageEditing2dto3d/2019-SDFDiff.pdf",
-    "ImageEditing2dto3d/SDFDiff-2019.pdf"
+    "ImageEditing2dto3d/2019-SDFDiff.pdf"
   ]
 }
