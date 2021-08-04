@@ -5,6 +5,7 @@
 ## Other Literature
 - [[DeepSDF]] paper talks about implicit representation.
 - [[Deep Level Sets]] is an end-to-end model predicting implicit surfaces.
+- [[SMVS]] aka Shading-aware multi-view synthesis can capture all the scene parameters from an image itself.
 ## Points to note
 - Rendering is not invertible so we can only optimize for close results.
 - The paper handles only shape optimizations, ig this means we can primarily only do [[Shape Reconstruction]] and other parameters are known.
