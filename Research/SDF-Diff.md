@@ -23,4 +23,7 @@ It is....
 - The normals at the point are then calculated by calculating the gradients of the SDF at the lattice vertices using [[Central Finite Differencing]] and then trilinearly interpolating them to the point. The normals expression would depend on a 4 x 4 x 4 neighborhood around the intersection point.
 - They use a simplistic diffuse shader using the calculated parameters.
 ### Multi-view
-- They generated training set by taking ~26 camera orientations
+- They generated training set by taking ~26 camera orientations.
+- Initialized the SDF to that of a sphere.
+- The loss/energy function is essentially the sum of the L_2 loss of the shape-differentiiable image render and the target views, and a regularization loss which essentially ensures the gradients to have unit magnitude.
+- The regularization loss is implemented to be finite diifferentials of the individual SDF points and summed over the SDF lattice.
