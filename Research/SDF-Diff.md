@@ -33,3 +33,8 @@ It is....
 - The stopping criterion for the optimization is tolerance of loss and small step length.
 - The multi-resolution method is proposed to incrementally increase the lattice resolution and train parallely. This seems to give them a better / faster convergence for high-frequency details.
 - Their render resolution is also dependent on the current lattice resolution.
+
+### Single-View
+- They use ShapeNet Dataset.
+- 3d IoU used as reconstriction metric.
+- They built the network in parts
