@@ -27,3 +27,4 @@ It is....
 - Initialized the SDF to that of a sphere.
 - The loss/energy function is essentially the sum of the L_2 loss of the shape-differentiiable image render and the target views, and a regularization loss which essentially ensures the gradients to have unit magnitude.
 - The regularization loss is implemented to be finite diifferentials of the individual SDF points and summed over the SDF lattice.
+- The training is performed greedily. If loss of a view
