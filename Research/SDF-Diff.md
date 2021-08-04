@@ -19,6 +19,7 @@ It is....
 - We essentially apply a 8-point discrete sphere tracing. So sample values at these 8 points are non-differentiable. but, pixel color is defined on the local set of SDF samples using an automatiic differentiaion framework.
 - This would mean that the we calculate distances and shading parameters in a non-differentiable fashion. But the actual shading happens in a differentiable way.
 - Inputs to the shading is lighting parameters, camera parameters and nearby lattice samples of SDF and provides the intersection point as well as the normals at this point.
-- The intersection point is calculated using ????????????????????????????????????
+- The intersection point is calculated using __????????????????????????????????????__
 - The normals at the point are then calculated by calculating the gradients of the SDF at the lattice vertices using [[Central Finite Differencing]] and then trilinearly interpolating them to the point. The normals expression would depend on a 4 x 4 x 4 neighborhood around the intersection point.
 - They use a simplistic diffuse shader using the calculated parameters.
+### Multi-view?
