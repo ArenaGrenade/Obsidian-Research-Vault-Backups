@@ -4,15 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8cce3c9b244f8f",
+        "id": "3d7f12ae2962f207",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf"
           }
         }
+      },
+      {
+        "id": "c36a2b246f1e12f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "cb9f46b4438c6fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential Volumetric Rendering.md",
+                "mode": "source"
+              }
+            },
+            "group": "1e82664ec140c67e"
+          },
+          {
+            "id": "eb9f08421d32a195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential Volumetric Rendering.md",
+                "mode": "preview"
+              }
+            },
+            "group": "1e82664ec140c67e"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -52,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376
+    "width": 376,
+    "collapsed": true
   },
   "right": {
     "id": "63bb4aa051368dcf",
@@ -68,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Differential Volumetric Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Differential Volumetric Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,17 +284,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc8cce3c9b244f8f",
+  "active": "cb9f46b4438c6fe9",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Differential Volumetric Rendering.md",
     "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
+    "Untitled.md",
     "Central Finite Differencing.md",
     "SDF-Diff.md",
     "Zero Level Set.md",
     "DeepSDF.md",
     "SMVS.md",
     "Deep Level Sets.md",
-    "SingleViewReconstructionLiterature/2019-SDFDiff.pdf",
-    "ImageEditing2dto3d/2019-SDFDiff.pdf"
+    "SingleViewReconstructionLiterature/2019-SDFDiff.pdf"
   ]
 }
