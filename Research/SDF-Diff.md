@@ -37,4 +37,6 @@ It is....
 ### Single-View
 - They use ShapeNet Dataset.
 - 3d IoU used as reconstriction metric.
-- They built the network in parts
+- They built the network in parts - a encoder + decoder for a course SDF construction module and another that refines this output and generates finer SDFs.
+- They use the above loss function with an additional laplacian loss which is __????????????????????????????__
+- 
