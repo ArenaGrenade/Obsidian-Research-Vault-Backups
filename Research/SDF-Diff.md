@@ -22,4 +22,5 @@ It is....
 - The intersection point is calculated using __????????????????????????????????????__
 - The normals at the point are then calculated by calculating the gradients of the SDF at the lattice vertices using [[Central Finite Differencing]] and then trilinearly interpolating them to the point. The normals expression would depend on a 4 x 4 x 4 neighborhood around the intersection point.
 - They use a simplistic diffuse shader using the calculated parameters.
-### Multi-view?
+### Multi-view
+- They generated training set by taking ~26 camera orientations
