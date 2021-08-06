@@ -15,7 +15,7 @@
 - Differentiable rendering needs to provide derrivatives of image wrt the scene parameters themselves. This is used when calculating the derrivatives of the loss function for any optimization.
 - Any model built on this must generate a 3d lattice / manifold of SDF values in a discrete fashion.
 ## How their method works?
-- Usage of discrete SDF. Trilinear interp for building continuous SDF. The object surface would be the [[Zero Level Set]] of this.
+- Usage of discrete SDF. Trilinear interp for building continuous SDF. The object surface would be the [[Level Sets]] of this.
 - We essentially apply a 8-point discrete sphere tracing. So sample values at these 8 points are non-differentiable. but, pixel color is defined on the local set of SDF samples using an automatiic differentiaion framework.
 - This would mean that the we calculate distances and shading parameters in a non-differentiable fashion. But the actual shading happens in a differentiable way.
 - Inputs to the shading is lighting parameters, camera parameters and nearby lattice samples of SDF and provides the intersection point as well as the normals at this point.

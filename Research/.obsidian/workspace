@@ -289,14 +289,14 @@
   "active": "cb9f46b4438c6fe9",
   "lastOpenFiles": [
     "Differential Volumetric Rendering.md",
-    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
+    "Level Sets.md",
     "SDF-Diff.md",
+    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
     "Untitled.md",
     "Central Finite Differencing.md",
     "Zero Level Set.md",
     "DeepSDF.md",
     "SMVS.md",
-    "Deep Level Sets.md",
-    "SingleViewReconstructionLiterature/2019-SDFDiff.pdf"
+    "Deep Level Sets.md"
   ]
 }
