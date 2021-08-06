@@ -6,6 +6,7 @@
       {
         "id": "3d7f12ae2962f207",
         "type": "leaf",
+        "dimension": 58.924731182795696,
         "state": {
           "type": "pdf",
           "state": {
@@ -16,6 +17,7 @@
       {
         "id": "c36a2b246f1e12f5",
         "type": "split",
+        "dimension": 41.075268817204304,
         "children": [
           {
             "id": "cb9f46b4438c6fe9",
@@ -287,8 +289,8 @@
   "active": "cb9f46b4438c6fe9",
   "lastOpenFiles": [
     "Differential Volumetric Rendering.md",
-    "SDF-Diff.md",
     "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
+    "SDF-Diff.md",
     "Untitled.md",
     "Central Finite Differencing.md",
     "Zero Level Set.md",
