@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26029b98677181d1",
+        "id": "f20de26eda57ddb3",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,8 +248,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26029b98677181d1",
+  "active": "f20de26eda57ddb3",
   "lastOpenFiles": [
+    "SingleViewReconstructionLiterature/2021-GANDifferentialRender.pdf",
     "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf",
     "SingleViewReconstructionLiterature/2020-SDF-SRN.pdf",
     "SingleViewReconstructionLiterature/2020-DIST.pdf",
@@ -262,7 +259,6 @@
     "Level Sets.md",
     "SDF-Diff.md",
     "Untitled.md",
-    "Central Finite Differencing.md",
-    "Zero Level Set.md"
+    "Central Finite Differencing.md"
   ]
 }
