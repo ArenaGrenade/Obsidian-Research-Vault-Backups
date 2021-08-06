@@ -4,47 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3d7f12ae2962f207",
+        "id": "26029b98677181d1",
         "type": "leaf",
-        "dimension": 58.924731182795696,
         "state": {
           "type": "pdf",
           "state": {
-            "file": "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf"
+            "file": "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf"
           }
         }
-      },
-      {
-        "id": "c36a2b246f1e12f5",
-        "type": "split",
-        "dimension": 41.075268817204304,
-        "children": [
-          {
-            "id": "cb9f46b4438c6fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differential Volumetric Rendering.md",
-                "mode": "source"
-              }
-            },
-            "group": "1e82664ec140c67e"
-          },
-          {
-            "id": "eb9f08421d32a195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differential Volumetric Rendering.md",
-                "mode": "preview"
-              }
-            },
-            "group": "1e82664ec140c67e"
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -84,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376,
-    "collapsed": true
+    "width": 376
   },
   "right": {
     "id": "63bb4aa051368dcf",
@@ -101,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Volumetric Rendering.md",
+                "file": "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Volumetric Rendering.md",
+                "file": "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,17 +252,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb9f46b4438c6fe9",
+  "active": "26029b98677181d1",
   "lastOpenFiles": [
+    "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf",
+    "SingleViewReconstructionLiterature/2020-SDF-SRN.pdf",
+    "SingleViewReconstructionLiterature/2020-DIST.pdf",
+    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
     "Differential Volumetric Rendering.md",
     "Level Sets.md",
     "SDF-Diff.md",
-    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
     "Untitled.md",
     "Central Finite Differencing.md",
-    "Zero Level Set.md",
-    "DeepSDF.md",
-    "SMVS.md",
-    "Deep Level Sets.md"
+    "Zero Level Set.md"
   ]
 }
