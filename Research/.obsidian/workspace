@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "290737ce2df57156",
+        "id": "f29cd66fa3cc5471",
         "type": "leaf",
         "state": {
           "type": "pdf",
           "state": {
-            "file": "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf"
+            "file": "SingleViewReconstructionLiterature/2020-DIST.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
+                "file": "SingleViewReconstructionLiterature/2020-DIST.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
+                "file": "SingleViewReconstructionLiterature/2020-DIST.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,11 +252,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "290737ce2df57156",
+  "active": "f29cd66fa3cc5471",
   "lastOpenFiles": [
+    "SingleViewReconstructionLiterature/2020-DIST.pdf",
     "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
     "SingleViewReconstructionLiterature/2020-SDF-SRN.pdf",
-    "SingleViewReconstructionLiterature/2020-DIST.pdf",
     "SingleViewReconstructionLiterature/2019-SDFDiff.pdf",
     "Untitled.md",
     "SingleViewReconstructionLiterature/2021-GANDifferentialRender.pdf",
