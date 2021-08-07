@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f29cd66fa3cc5471",
+        "id": "8966683f66403ca0",
         "type": "leaf",
         "state": {
           "type": "pdf",
@@ -252,15 +252,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f29cd66fa3cc5471",
+  "active": "8966683f66403ca0",
   "lastOpenFiles": [
     "SingleViewReconstructionLiterature/2020-DIST.pdf",
-    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
-    "SingleViewReconstructionLiterature/2020-SDF-SRN.pdf",
     "SingleViewReconstructionLiterature/2019-SDFDiff.pdf",
-    "Untitled.md",
+    "SingleViewReconstructionLiterature/2020-SDF-SRN.pdf",
     "SingleViewReconstructionLiterature/2021-GANDifferentialRender.pdf",
     "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf",
+    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
+    "Untitled.md",
     "Differential Volumetric Rendering.md",
     "Level Sets.md",
     "SDF-Diff.md"
