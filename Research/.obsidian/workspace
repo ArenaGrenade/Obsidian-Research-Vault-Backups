@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f20de26eda57ddb3",
+        "id": "290737ce2df57156",
         "type": "leaf",
         "state": {
           "type": "pdf",
           "state": {
-            "file": "SingleViewReconstructionLiterature/2020-DIST.pdf"
+            "file": "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SingleViewReconstructionLiterature/2020-DIST.pdf",
+                "file": "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SingleViewReconstructionLiterature/2020-DIST.pdf",
+                "file": "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,17 +252,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f20de26eda57ddb3",
+  "active": "290737ce2df57156",
   "lastOpenFiles": [
+    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
+    "SingleViewReconstructionLiterature/2020-SDF-SRN.pdf",
     "SingleViewReconstructionLiterature/2020-DIST.pdf",
+    "SingleViewReconstructionLiterature/2019-SDFDiff.pdf",
+    "Untitled.md",
     "SingleViewReconstructionLiterature/2021-GANDifferentialRender.pdf",
     "SingleViewReconstructionLiterature/2021-3dReconstructLossFunction.pdf",
-    "SingleViewReconstructionLiterature/2020-SDF-SRN.pdf",
-    "SingleViewReconstructionLiterature/2020-Differentiable Volumetric Rendering.pdf",
     "Differential Volumetric Rendering.md",
     "Level Sets.md",
-    "SDF-Diff.md",
-    "Untitled.md",
-    "Central Finite Differencing.md"
+    "SDF-Diff.md"
   ]
 }
